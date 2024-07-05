@@ -27,7 +27,7 @@ tr-TR:
   Add Content Rating: İçerik Derecelendirmesi Ekle
   Add Creator: İçerik Oluşturucu ekle
   Add Data & Content: Veri ve İçerik Ekle
-  Add Headshot:
+  Add Headshot: Portre Fotoğrafı Ekle
   Add Item: Öğe Ekle
   Add Missing Cast & Crew: Eksik Ekip ve Oyuncu Ekle
   Add Network: Kanal Ekle
@@ -39,7 +39,7 @@ tr-TR:
   Add Poster: Afiş Ekle
   Add Profile: Profil Ekle
   Add Season Regular: Düzenli Sezon Ekle
-  Add Title Logo:
+  Add Title Logo: Başlık Logosu Ekle
   Add To Every Season?: Bütün Sezonlara Ekle?
   Add Video: Video Ekle
   Add YouTube Video: Youtube Videosu Ekle
@@ -291,11 +291,11 @@ tr-TR:
   Number of edits in the past: Geçmişte yapılan düzenlemeler
   Offensive or Spam: Tahrik Edici ya da Spam
   Offical Site: Resmi Site
-  Offline Databases:
+  Offline Databases: Veri Tabanı Çevrimdışı
   Origin Country: Orijinal Ülke
-  Original Air Date:
-  Original Ascending:
-  Original Descending:
+  Original Air Date: Orijinal Yayın Tarihi
+  Original Ascending: Orijinal Artan
+  Original Descending: Orijinal Azalan
   Original Language: Orjinal Dili
   Original Movie Language: Orjinal Film Dili
   Original Name: Orjinal Adı
@@ -313,9 +313,9 @@ tr-TR:
   Personal Info: Kişisel Bilgi
   Personal Recommendations:
   Phone Number: Telefon Numarası
-  Physical:
+  Physical:Fiziksel
   Place of Birth: Doğum Yeri
-  Play:
+  Play: Onat
   Plot Keywords: Hikaye Anahtar Kelimeleri
   Popular Lists: Popüler listeler
   Popular Movies: Popüler Filmler
@@ -332,7 +332,7 @@ tr-TR:
   Preview: Önizleme
   Primary Color: Ana Renk
   Primary Facts: Birincil Unsurlar
-  Primary?:
+  Primary?: Birincil?
   Privacy Policy: Gizlilik Politikası
   Production Code:
   Production Companies: Yapım Şirketleri
@@ -341,11 +341,11 @@ tr-TR:
   Public List?: Genel Liste?
   Public Report?: Genel Açık Rapor?
   Quality: Kalite
-  Rank:
+  Rank: Derece
   Rate It!: Oyla!
   Rated: Oylanmış
-  Rated Movies:
-  Rated TV Shows:
+  Rated Movies: Puanlandırılmış Filmler
+  Rated TV Shows: Puanlandırılmış TV Şovları
   Rating: Değerlendirme
   Rating Ascending: Artan Oylar
   Rating Descending: Artan Oylar
@@ -382,16 +382,16 @@ tr-TR:
   Search for a genre: Tür ara
   Search for a keyword: Anahtar kelime ara
   Search for a language: Dil ara
-  Search for a movie:
+  Search for a movie: Bir film ara
   Search for a movie or TV show: Film veya dizi ara
   Search for a movie, TV show, person: Film, dizi, kişi ara
   Season: Sezon
   Season Number: Sezon Numarası
   Season Overview: Sezona Genel Bakış
-  Season Regulars:
-  Season Specials:
+  Season Regulars: Düzenli Sezonlar
+  Season Specials: Özel Sezonlar
   Seasons: Sezonlar
-  Secondary Color:
+  Secondary Color: İkincil Renk
   See Episodes: Bölümleri göster
   Select One: Bir tane seçin...
   Select a category: Kategori seç
@@ -1325,7 +1325,7 @@ tr-TR:
     previous_nav_label:
     results_info_text:
     results_selection_info:
-    revenue:
+    revenue: Hasılat
     search: Arama
     search_error_info:
     star:
@@ -1457,7 +1457,7 @@ tr-TR:
       default: "%m/%d/%Y"
       full_month_day: "%B %e, %Y"
       full_month_year: "%B %Y"
-      short_month_day_year: "%d-%m-%Y"
+      short_month_day_year: "%b %d, %Y"
     month_names:
     -
     - ocak
@@ -1473,6 +1473,8 @@ tr-TR:
     - kasım
     - aralık
   day: gün
+  days:
+    one: gün
   days: "%{count} gün"
   deleted_content:
     entry_deleted: Girdi silindi
@@ -3643,15 +3645,15 @@ tr-TR:
   time:
     formats:
       12hour_minutes: "%l:%M %p"
-      am:
-      default:
+      am: ÖÖ
+      default: "%a, %d %b %Y %I:%M:%S %p %Z"
       long: "%B %d, %Y %I:%M %p"
-      pm:
+      pm: ÖS
       short: "%d %b %I:%M %p"
   top_contributors: En Çok Katkıda Bulunanlar
   translation: Çeviriler
   upload_backdrop: Bir Arka Plan Yükle
-  upload_headshot:
+  upload_headshot: Portre Fotoğrafı Yükle
   upload_poster: Afiş Yükle
   upload_profile: Profil Yükle
   upload_title_logo:
